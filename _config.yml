@@ -9,14 +9,12 @@ baseurl:
 production_url: https://shristi-shrestha.github.io/
 disqus: 'Shris-T'
 mailchimp_url: ''
-cover_image: covers/fal2021.jpeg
+cover_image: covers/fall2021.jpg
 # Add your GA Tracking Id
 ga_analytics: 
 
 # Contact form setings
 email: shres.shristi@gmail.com
-contact_page_description: ""
-thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
 
 # Social links
 twitter: 'shr9st9'
