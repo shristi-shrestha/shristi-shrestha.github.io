@@ -8,14 +8,14 @@ favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://shristi-shrestha.github.io/
 disqus: 'Shris-T'
-mailchimp_url: ''
+mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: covers/fall2021.jpeg
 # Add your GA Tracking Id
 ga_analytics: 
 
 # Contact form setings
 email: shres.shristi@gmail.com
-contact_page_description: ""
+contact_page_description: " "
 thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
 
 # Social links
