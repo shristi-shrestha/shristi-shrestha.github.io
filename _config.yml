@@ -3,12 +3,9 @@ name: 'Shris-T'
 description: 'I am a bioinformatics analyst and staff scientist at Creative Data Solutions, Vanderbilt University'
 meta_description: 'I am a bioinformatics analyst and staff scientist at Creative Data Solutions, Vanderbilt University, that provides bioinformatics and informatics research services (https://cds.vanderbilt.edu/). My interest in biological data analysis has lead me to enjoy bulk and single cell RNA-seq analysis space mostly but also currently keen on software development, data science and creative data visual projects '
 greetings: 'Shristi Shrestha'
-logo:
 favicon: 'assets/images/favicon.ico'
-baseurl: 
 production_url: https://shristi-shrestha.github.io/
 disqus: 'Shris-T'
-mailchimp_url: ''
 cover_image: covers/fall2021.jpg
 
 # Add your GA Tracking Id
@@ -16,11 +13,6 @@ ga_analytics:
 
 # Contact form setings
 email: shres.shristi@gmail.com
-
-
-contact_page_description: " "
-thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
-
 
 # Social links
 twitter: 'shr9st9'
