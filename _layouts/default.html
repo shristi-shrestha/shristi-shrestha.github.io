@@ -42,14 +42,6 @@
                     <a href="#" class="arrow-down">
                         <span class="screen-reader-text">Scroll Down</span>
                     </a>
-                    <a href="{{ site.mailchimp_url }}" class="subscribe button">Subscribe
-                        <span aria-hidden="true">
-                            <span class="line left"></span>
-                            <span class="line top"></span>
-                            <span class="line right"></span>
-                            <span class="line bottom"></span>
-                        </span>
-                    </a>
                 </div><!-- .inner -->
             </div><!-- .cover-content -->
 
@@ -64,43 +56,6 @@
                 style="background-image: url({{ site.baseurl }}/assets/images/{{ site.cover_image }})"></div>
             {% endif %}
 
-            <div class="cover-content">
-                <div class="inner">
-                    <h2 class="hero-title">
-                        {{ site.greetings }}
-                    </h2>
-                    <a href="{{ site.mailchimp_url }}" class="subscribe button">Subscribe
-                        <span aria-hidden="true">
-                            <span class="line left"></span>
-                            <span class="line top"></span>
-                            <span class="line right"></span>
-                            <span class="line bottom"></span>
-                        </span>
-                    </a>
-                </div><!-- .inner -->
-            </div><!-- .cover-content -->
-
-        </div><!-- .cover -->
-        {% endif %}
-        {% endif %}
-
-        {{ content }}
-
-        {% if paginator.total_posts > site.paginate %}
-        {% if page.class == 'tag-template' %}
-        {% include tag-pagination.html %}
-        {% endif %}
-        {% endif %}
-
-        {% if site.mailchimp_url %}
-        {% include newsletter-box.html %}
-        {% endif %}
-
-        {% include sidebar.html %}
-        {% include footer.html %}
-    </div><!-- .site -->
-
-    {% include analytics.html %}
     <!-- Javascript Assets -->
     <script src="{{ site.baseurl }}/assets/js/jquery-3.2.1.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/plugins.js"></script>

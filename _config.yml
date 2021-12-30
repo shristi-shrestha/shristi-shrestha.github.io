@@ -5,7 +5,7 @@ meta_description: 'I am a bioinformatics analyst and staff scientist at Creative
 greetings: 'Shristi Shrestha'
 favicon: 'assets/images/favicon.ico'
 production_url: https://shristi-shrestha.github.io/
-disqus: 'Shris-T'
+disqus:
 cover_image: covers/fall2021.jpg
 
 # Add your GA Tracking Id
@@ -26,8 +26,8 @@ navigation:
     url: /about
   - text: Publication
     url: /publication
-  - text: Contact Me
-    url: /contact
+  - text: Projects
+    url: /projects
 
 # Required Plugins
 plugins_dir:
