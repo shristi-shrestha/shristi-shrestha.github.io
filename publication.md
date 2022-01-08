@@ -4,7 +4,7 @@ title: Publications
 featured_image: /assets/images/covers/8.jpeg
 ---
 [Combinatorial transcription factor profiles predict mature and functional human islet α and β cells](https://insight.jci.org/articles/view/151621?utm_source=submission_site&utm_medium=email&utm_campaign=notice-of-publication)
-**S Shrestha**, DC Saunders, JT Walker,… ,Patrick E. MacDonald, Shawn E. Levy, Alvin C. Powers, Marcela Brissova
+**Shristi Shrestha**, Diane C. Saunders, Jack T. Walker,… ,Patrick E. MacDonald, Shawn E. Levy, Alvin C. Powers, Marcela Brissova
 <em>JCI Insight</em> 2021;6(18):e151621.
 
 [α cell function and gene expression are compromised in type 1 diabetes](https://www.cell.com/cell-reports/pdf/S2211-1247(18)30213-4.pdf)

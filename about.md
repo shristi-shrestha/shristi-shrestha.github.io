@@ -4,7 +4,7 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-I'm a bioinformatics analyst and staff scientist at Creative Data Solutions(CDS), Vanderbilt Center for Stem Cell biology, Vanderbilt Univerisity, Nashville, Tennessee. After my postdoctoral research journey investigating complexities of beta cell biology in diabetes using genomic data,  I have worked for a year in CDS where I continue to exploring various disease etiologies analyzing genomic data through research services provided by CDS to the Vanderbilt community.
+I'm a bioinformatics analyst and staff scientist at Creative Data Solutions(CDS), Vanderbilt Center for Stem Cell biology, Vanderbilt Univerisity, Nashville, Tennessee. My research journey has led me to investigate complexities of beta cell biology in diabetes using transcriptomic data. Currently,  I work at CDS where I continue to explore various disease etiologies analyzing genomic data through research services provided by CDS to the Vanderbilt community.
 
 **Education**
 Ph.D. Biotechnology Science and Engineering, July 2018    
