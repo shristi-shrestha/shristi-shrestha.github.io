@@ -7,9 +7,7 @@ featured_image: /assets/images/covers/8.jpeg
 **Shristi Shrestha**, Diane C. Saunders, Jack T. Walker,… ,Patrick E. MacDonald, Shawn E. Levy, Alvin C. Powers, Marcela Brissova
 <em>JCI Insight</em> 2021;6(18):e151621.
 
-[Aging compromises human islet beta cell function and identity by decreasing transcription factor activity and inducing ER stress](https://www.science.org/doi/10.1126/sciadv.abo3932)
-
-**Shristi Shrestha**, Galina Erikson, James Lyon, Aliya F. Spigelman, Austin Bautista, Jocelyn E. Manning Fox, Cristiane dos Santos, Maxim Shokhirev, Jean-Philippe Cartailler, Martin W. Hetzer, Patrick E. MacDonald, and Rafael Arrojo e Drigo                                                                                                                                              *Sci. Adv.8*,eabo3932(2022).DOI:[10.1126/sciadv.abo3932](https://doi.org/10.1126/sciadv.abo3932)
+[Aging compromises human islet beta cell function and identity by decreasing transcription factor activity and inducing ER stress](https://www.science.org/doi/10.1126/sciadv.abo3932)**Shristi Shrestha**, Galina Erikson, James Lyon, Aliya F. Spigelman, Austin Bautista, Jocelyn E. Manning Fox, Cristiane dos Santos, Maxim Shokhirev, Jean-Philippe Cartailler, Martin W. Hetzer, Patrick E. MacDonald, and Rafael Arrojo e Drigo                                                                                                                                              *Sci. Adv.8*,eabo3932(2022).DOI:[10.1126/sciadv.abo3932](https://doi.org/10.1126/sciadv.abo3932)
 
 [Calorie restriction increases insulin sensitivity to promote beta cell homeostasis and longevity in mice](https://www.nature.com/articles/s41467-024-53127-2)
 Cristiane Dos Santos, Amanda Cambraia, **Shristi Shrestha**, Melanie Cutler, Matthew Cottam, Guy Perkins, Varda Lev-Ram, Birbickram Roy, Christopher Acree, Keun-Young Kim, et al.
@@ -23,9 +21,7 @@ Allison Pourquoi, Michael R Miller, Stephen R Koch, Katharine Boyle, Victoria Su
 Katie C Coate, Jeeyeon Cha, **Shristi Shrestha**, ..., Roland Stein, Klaus H Kaestner, Golnaz Vahedi, Marcela Brissova, Alvin C Powers, HPAP Consortium
 <em>Cell metabolism</em> 32.6 (2020): 1028-1040.
 
-[Calorie restriction increases insulin sensitivity to promote beta cell homeostasis and longevity in mice.](https://www.nature.com/articles/s41467-024-53127-2#citeas)
-
-Cristiane dos Santos, Amanda Cambraia, **Shristi Shrestha**, Melanie Cutler, Matthew Cottam, Guy Perkins, Varda Lev-Ram, Birbickram Roy, Christopher Acree, Keun-Young Kim, Thomas Deerinck, Danielle Dean, Jean Philippe Cartailler, Patrick E. MacDonald, Martin Hetzer, Mark Ellisman & Rafael Arrojo e Drigo                    *Nat Commun* **15**, 9063 (2024). https://doi.org/10.1038/s41467-024-53127-2
+[Calorie restriction increases insulin sensitivity to promote beta cell homeostasis and longevity in mice.](https://www.nature.com/articles/s41467-024-53127-2#citeas)Cristiane dos Santos, Amanda Cambraia, **Shristi Shrestha**, Melanie Cutler, Matthew Cottam, Guy Perkins, Varda Lev-Ram, Birbickram Roy, Christopher Acree, Keun-Young Kim, Thomas Deerinck, Danielle Dean, Jean Philippe Cartailler, Patrick E. MacDonald, Martin Hetzer, Mark Ellisman & Rafael Arrojo e Drigo                    *Nat Commun* **15**, 9063 (2024). https://doi.org/10.1038/s41467-024-53127-2
 
 [α cell function and gene expression are compromised in type 1 diabetes](https://www.cell.com/cell-reports/pdf/S2211-1247(18)30213-4.pdf)
 Marcela Brissova, RachanaHaliyur, DianeSaunders, **Shristi Shrestha**, Chunhua Dai, David M.Blodgett, RitaBottino, Martha Campbell-Thompson, ......, MarkAtkinson, Alvin C.Powers
@@ -52,9 +48,7 @@ Samantha Kuszynski, Ian Junker, **Shristi Shrestha**, Alexander Brand, Paige Pfo
 <em>bioRxiv</em> 2026. 
 
 [PanKbase Integrated Single-Cell Map: A Comprehensive Atlas of Human Pancreatic Islets](https://www.biorxiv.org/content/10.64898/2026.06.02.729719v1)
-Ha TH Vu, Han Sun, Parul Kudtarkar, Seth A Sharp, Liza Brusman, Yiqun Wang, Yuanhao Huang, Runbo Mao, Fan Feng, Sierra Corban, Amanda K. Huber, Alex Shilin, Ying Sun, Sara Narayanaswamy, Dongkeun Jang, Julie Jurgens, Cassie C. Robertson, **Shristi Shrestha**, Thomas Bate, Trang Nguyen, Patrick Smadbeck, Lu Zhang, Mackenzie Brandes, The PanKbase Consortium, Jason Flannick, Noel Burtt, Shuibing Chen, Jie Liu, Jean-Philippe Cartailler, Benjamin F. Voight, Michael L. Stitzel, Marcela Brissova, View ORCID ProfileAnna L. Gloyn, Kyle Gaulton, Stephen C.J. Parker
-
-<em>bioRxiv</em> 2026.
+Ha TH Vu, Han Sun, Parul Kudtarkar, Seth A Sharp, Liza Brusman, Yiqun Wang, Yuanhao Huang, Runbo Mao, Fan Feng, Sierra Corban, Amanda K. Huber, Alex Shilin, Ying Sun, Sara Narayanaswamy, Dongkeun Jang, Julie Jurgens, Cassie C. Robertson, **Shristi Shrestha**, Thomas Bate, Trang Nguyen, Patrick Smadbeck, Lu Zhang, Mackenzie Brandes, The PanKbase Consortium, Jason Flannick, Noel Burtt, Shuibing Chen, Jie Liu, Jean-Philippe Cartailler, Benjamin F. Voight, Michael L. Stitzel, Marcela Brissova, View ORCID ProfileAnna L. Gloyn, Kyle Gaulton, Stephen C.J. Parker<em>bioRxiv</em> 2026.
 
 [The mammalian LINC complex regulates genome transcriptional responses to substrate rigidity](https://www.nature.com/articles/srep38063)
 Samer G. Alam, Qiao Zhang, Nripesh Prasad, Yuan Li, Srikar Chamala, Ram Kuchibhotla, Birendra KC, Varun Aggarwal, **Shristi Shrestha**, Angela L. Jones, Shawn E. Levy, Kyle J. Roux, Jeffrey A. Nickerson & Tanmay P. Lele 
@@ -84,12 +78,10 @@ Sara JC Gosline, Hubert Weinberg, Pamela Knight, Thomas Yu, Xindi Guo, Nripesh P
 Despoina Aslanoglou, Suzanne Bertera, Marta Sánchez-Soto, R Benjamin Free, Jeongkyung Lee, Wei Zong, Xiangning Xue, **Shristi Shrestha**, Marcela Brissova,..., Zachary Freyberg
 <em>Translational psychiatry</em> 11.1 (2021): 1-18.
 
-[Single-cell sperm transcriptomes and variants from fathers of children with and without autism spectrum disorder](https://www.nature.com/articles/s41525-020-0117-4)
-Delia Tomoiaga, Vanessa Aguiar-Pulido, **Shristi Shrestha**, Paul Feinstein, Shawn E Levy, Christopher E Mason, Jeffrey A Rosenfeld
+[Single-cell sperm transcriptomes and variants from fathers of children with and without autism spectrum disorder](https://www.nature.com/articles/s41525-020-0117-4) Delia Tomoiaga, Vanessa Aguiar-Pulido, **Shristi Shrestha**, Paul Feinstein, Shawn E Levy, Christopher E Mason, Jeffrey A Rosenfeld
 <em>NPJ genomic medicine</em>  5.1 (2020): 1-7
 
-[Integrated analysis of the pancreas and islets reveals unexpected findings in human male with type 1 diabetes](https://academic.oup.com/jes/article/5/12/bvab162/6414397?login=true)
-Rachana Haliyur, John T Walker, May Sanyoura, Conrad V Reihsmann, **Shristi Shrestha**, ...., Marcela Brissova, Alvin C Powers
+[Integrated analysis of the pancreas and islets reveals unexpected findings in human male with type 1 diabetes](https://academic.oup.com/jes/article/5/12/bvab162/6414397?login=true) Rachana Haliyur, John T Walker, May Sanyoura, Conrad V Reihsmann, **Shristi Shrestha**, ...., Marcela Brissova, Alvin C Powers
 <em>Journal of the Endocrine Society<em> 5.12 (2021): bvab162
 
 [The MODY-associated KCNK16 L114P mutation increases islet glucagon secretion and limits insulin secretion resulting in transient neonatal diabetes and glucose dyshomeostasis in adults](https://elifesciences.org/articles/89967)
